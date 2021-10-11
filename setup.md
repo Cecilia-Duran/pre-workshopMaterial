@@ -8,7 +8,16 @@ Throughout this workshop we will assuming previous knowledge in Unix, Python, C+
 
 It is not necessary for you to be an expert but it would be beneficial to have some experience and to feel comfortable working with them.
 
+Remember to follow the tutorial in the UChicago Analysis Facility
+
 > ## Prerequisite Checklist
+
+    For the following tutorial (Unix and the Terminal), download [shell-lesson-data.zip] (https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip),     create a directory named "Desktop" on your home area in the UChicago facility and upload the file to the directory you just created:
+    
+    scp shell-lesson-data.zip <your_user_name>@login.af.uchicago.edu:/home/<your_user_name>/Desktop
+    
+    To unzip the file just type "unzip shell-lesson-data.zip" on the command line and then follow the instructions of the tutorial.
+    
 > - Unix and the Terminal : Review and understand the contents of the [Software Carpentry Tutorial](http://swcarpentry.github.io/shell-novice/).
 > - Essential C++ : Ensure you understand the concepts in the "Bare Minimum" checklist.
 > - Building Code : Know the difference between compiling and linking.
